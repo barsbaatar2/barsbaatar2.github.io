@@ -1,0 +1,70 @@
+{
+  "name": "callpro-crm",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.9",
+    "@material-ui/icons": "^4.9.1",
+    "@progress/kendo-react-dropdowns": "^3.12.0",
+    "@progress/kendo-react-intl": "^3.12.0",
+    "agora-rtc-sdk": "^3.0.2",
+    "ant-design-pro": "^2.3.2",
+    "antd": "^3.26.15",
+    "axios": "^0.19.2",
+    "bizcharts": "^3.5.8",
+    "classnames": "^2.2.6",
+    "draft-js": "^0.11.5",
+    "echarts-for-react": "^2.0.15-beta.1",
+    "email-validator": "^2.0.4",
+    "formik": "^2.1.4",
+    "http": "0.0.0",
+    "immutability-helper": "^3.0.2",
+    "indicative": "^7.4.4",
+    "install": "^0.13.0",
+    "moment": "^2.24.0",
+    "npm": "^6.14.4",
+    "password-validator": "^5.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-addons-update": "^15.6.2",
+    "react-alert": "^6.0.1",
+    "react-chartist": "^0.14.3",
+    "react-dev-utils": "^10.2.1",
+    "react-dnd": "^9.5.1",
+    "react-dnd-html5-backend": "^9.5.1",
+    "react-dom": "^16.13.1",
+    "react-draft-wysiwyg": "^1.14.4",
+    "react-images-upload": "^1.2.8",
+    "react-infinite-scroller": "^1.2.4",
+    "react-moment": "^0.9.7",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.4.1",
+    "react-select": "^3.1.0",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "less-loader": "^5.0.0"
+  }
+}
